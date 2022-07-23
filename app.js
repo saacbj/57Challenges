@@ -5,10 +5,10 @@ const ul = document.createElement("ul");
 const solutions = {
   2: {
     1: [
-      ["01 Saying Hello", "01-SayingHello/index.html", "2022/07/22"],
+      ["01 Saying Hello", "./01-SayingHello/index.html", "2022/07/22"],
       [
         "01 Saying Hello (Dynamic)",
-        "01-SayingHello/dynamicSolution/index.html",
+        "./01-SayingHello/dynamicSolution/index.html",
         "2022/07/22",
       ],
     ],

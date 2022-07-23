@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  font-family: "Poppins";
+}
+
+body {
+  height: 100vh;
+
+  background-color: #dda15e;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  min-width: 383px;
+
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /*
+  No se necesita porque como main y body comparten el mismo eje "flex", entonces los elementos en main ya están centrados
+  */
+  align-items: center;
+}
+
+h1 {
+  position: relative;
+  bottom: 200px;
+
+  font-size: 4rem;
+  text-align: center;
+}
+
+input {
+  width: 383px;
+  height: 2rem;
+
+  border-radius: 10px;
+  border: none;
+  padding: 1rem;
+
+  box-sizing: border-box;
+}
+
+input:focus {
+  /* background-color: black; */
+  /* border: none; */
+  outline: none;
+}

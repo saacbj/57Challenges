@@ -12,6 +12,7 @@
 
 - [01 Saying Hello](./01-SayingHello/index.html)
 - [01 Saying Hello (Dynamic)](./01-SayingHello/dynamicSolution/index.html)
+- [02 Counting the Number of Characters](./02-CountingTheNumberOfCharacters/index.html)
 
 <!-- ##3. Calculations
 ##4. Making Decisions

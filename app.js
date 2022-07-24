@@ -11,6 +11,11 @@ const solutions = {
         "./01-SayingHello/dynamicSolution/index.html",
         "2022/07/22",
       ],
+      [
+        "02 Counting the Number of Characters",
+        "./02-CountingTheNumberOfCharacters/index.html",
+        "2022/07/23",
+      ],
     ],
   },
 };
